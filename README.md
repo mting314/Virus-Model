@@ -6,11 +6,11 @@ All the many different project files for this little mathematical model that end
 
 Now as you can probably tell, I started this exploration a really really long time just a bit before things started getting seriously bad here in the US. 
 
-## The PDF
+## [The PDF](Virus_Model.pdf)
 This was the start of the presentation of my exploration, and sort of the most all-encompassing (especially if you care mostly about the math). It goes over the explanation of the main model used, an SIR model I learned in my [mathematical modelling course](https://www.math.ucla.edu/ugrad/courses/math/142), and how I adapted the basic version into one where it could account for the travel between two countries/cities.
 
-## The Jupyter Notebook
+## [The Jupyter Notebook](/Virus_Notebook.ipynb)
 Has a Python implementation of the model discussed in the PDF so that we can look at some pretty graphs, as well as have some "experimental" results to confirm the theoretical results from the calculations.
 
-## The Pretty Visualization/Animation
-Live [here](https://www.pic.ucla.edu/~coolguy5530/Virus/).
+## [The Pretty Visualization/Animation](https://www.pic.ucla.edu/~coolguy5530/Virus/)
+Live [here](https://www.pic.ucla.edu/~coolguy5530/Virus/). Implements the main model we've been talking about, but with simpler paraters to mess around with, and a pretty animation. More explanation on the website.
